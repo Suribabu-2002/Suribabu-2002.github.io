@@ -650,3 +650,10 @@
         .stat-item p {
             opacity: 0.9;
         }
+
+      .profile {
+        width: 240px; 
+        height: 240px;     
+        border-radius: 50%;   
+        scale: 1.0;  
+    }
