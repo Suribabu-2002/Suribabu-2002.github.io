@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suribabu-mynam)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suribabu-mynam-279871256)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suribabumynam@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
   [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918919742380)
@@ -127,7 +127,7 @@ I'm a passionate **Frontend Developer** currently working at **Salesken.ai**, wh
 - 📝 **Personal Lists**: Customizable watchlists for users
 - 📱 **Responsive Design**: Seamless experience across all devices
 
-[🔗 View Project](#) | [💻 Source Code](#)
+[🔗 View Project](https://github.com/Suribabu-2002/project-streamingApp) | [💻 Source Code](https://joyboy-lyart.vercel.app/)
 
 ---
 
@@ -185,7 +185,7 @@ I'm always excited to collaborate on interesting projects and discuss new techno
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suribabu-mynam)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suribabu-mynam-279871256)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suribabumynam@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suribabu-2002)
 
@@ -200,7 +200,5 @@ I'm always excited to collaborate on interesting projects and discuss new techno
 <div align="center">
   
   **⭐ Star my repositories if you find them interesting!**
-  
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-  
+    
 </div>
